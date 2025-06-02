@@ -3,7 +3,7 @@
 #include <time.h>
 #include <string.h>
 //For my DND Campaign, I need to constantly roll for shopkeepers. 
-//Instead of doing that manually like a normal person, I decided to create this because I have mental issues.
+//Instead of doing that manually like a normal person, I decided to create this because well, you gotta learn somehow.
 int luckrecalc() { //recalculates luck so you can reuse this 
     return (rand() % 36) * 3;
 }
