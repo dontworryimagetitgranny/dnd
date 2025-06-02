@@ -72,7 +72,7 @@ int shopdndroll(int level, int bonus, int luck, char *context) { //main function
 
     return successvalue;
 }
-int main() { //does the function things!
+int main() { //does the command things!
     srand(time(NULL)); 
     int level, bonus, luck;
     char *shop_context;
