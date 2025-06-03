@@ -3,7 +3,7 @@
 #include <time.h>
 #include <string.h>
 #include <unistd.h> 
-
+//wip it's broken right now, and I'm fixing it asap!
 char* exampleinventory(int itemnumba);
 
 char* exampleinventory(int itemnumba) {
